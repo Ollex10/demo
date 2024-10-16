@@ -11,11 +11,4 @@ This project demonstrates how to integrate the **Bootstrap** frontend framework 
 - **Interactive UI Components**: Includes Bootstrap components like navigation bars, forms, tables, buttons, and modals.
 - **Simple CRUD Operations**: (If applicable) Basic create, read, update, and delete functionality handled by controllers.
 
-## Installation
 
-Follow these steps to set up and run the project locally:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/bootstrap-mvc-project.git
-   cd bootstrap-mvc-project
